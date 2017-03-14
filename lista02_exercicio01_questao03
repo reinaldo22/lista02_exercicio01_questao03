@@ -1,0 +1,4 @@
+numero1 = input("informe o primeiro numero")
+numero2 = input("informe o segundo numero")
+somatoria = numero1 + numero2
+print(somatoria)
